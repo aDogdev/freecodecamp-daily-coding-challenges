@@ -1,13 +1,26 @@
 {
   "name": "daily-coding-challenges",
   "version": "1.0.0",
-  "description": "",
+  "description": "My solutions to the daily coding challenges of freeCodeCamp.",
   "main": "index.js",
   "scripts": {
     "test": "vitest"
   },
   "keywords": [],
-  "author": "",
+  "author": "adog <adrianmg3008@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aDogdev/freecodecamp-daily-coding-challenges"
+  },
+  "homepage": "https://github.com/aDogdev/freecodecamp-daily-coding-challenges",
+  "bugs": {
+    "url": "https://github.com/aDogdev/freecodecamp-daily-coding-challenges/issues"
+  },
+  "keywords": [
+    "challenges",
+    "freeCodeCamp",
+    "typescript"
+  ],
   "license": "ISC",
   "packageManager": "pnpm@10.14.0",
   "devDependencies": {
